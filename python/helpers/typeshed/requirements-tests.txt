@@ -4,7 +4,7 @@ mypy==1.19.1
 pyright==1.1.408
 
 # Libraries used by our various scripts.
-aiohttp==3.13.3
+aiohttp==3.14.4
 grpcio-tools>=1.76.0 # For grpc_tools.protoc
 mypy-protobuf==4.0.0
 packaging==25.0
